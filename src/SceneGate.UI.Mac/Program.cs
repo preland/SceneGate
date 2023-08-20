@@ -3,6 +3,7 @@ using Eto.Drawing;
 using Eto.Forms;
 using Eto.Mac.Forms.Controls;
 using SceneGate.UI.Main;
+
 namespace SceneGate.UI.Mac
 {
     public static class Program
